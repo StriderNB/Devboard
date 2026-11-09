@@ -1,4 +1,4 @@
-# Devboard
+# RP2040 Devboard
 Week 5 project of Hack club Half Life
 <img width="554" height="1196" alt="Screenshot 2026-11-08 204616" src="https://github.com/user-attachments/assets/872b43f5-73f1-4a9e-b743-aa1fdbf4737a" />
 # Details
