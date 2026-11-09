@@ -2,9 +2,13 @@
 Week 5 project of Hack club Half Life
 <img width="554" height="1196" alt="Screenshot 2026-11-08 204616" src="https://github.com/user-attachments/assets/872b43f5-73f1-4a9e-b743-aa1fdbf4737a" />
 # Details
-*Based off of the Raspberry Pi Pico
+Based off of the Raspberry Pi Pico
 
-*28 GPIO pins
+28 GPIO pins
+
+RP2040 Microcontroller
+
+Check schematic image below for pinouts
 # BOM
 *Note these are bulk quantities not exact
 
