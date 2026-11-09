@@ -1,5 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-1uF,2,,$0.00,$0.00,
+1uF,50,LCSC,$0.01,$0.50,https://www.lcsc.com/product-detail/C29266.html?spm=wm.gwc.xh.0.cbm___wm.fly.ssl.gwc&lcsc_vid=TgdYAQdQRwdeUABeRQdeVFRSEgJdX1VWFFVZUVEFRAMxVlNfQ1BXVlNRT1NZXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D
 0.1uF,11,,$0.00,$0.00,
 10uF,2,,$0.00,$0.00,
 33pF,2,,$0.00,$0.00,
