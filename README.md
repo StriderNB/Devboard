@@ -12,7 +12,7 @@ Red power led on the top right and a yellow green test led on the bottom right G
 
 Bottom button is reset, top button is boot
 
-Check schematic image below for pinouts
+Don't have a table of the pinouts yet but they are available in the images below.
 # BOM
 *Note these are bulk quantities not exact
 
