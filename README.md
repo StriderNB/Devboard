@@ -8,7 +8,7 @@ A devboard Based off of the Raspberry Pi Pico using the RP2040 Microcontroller.
 
 28 GPIO pins
 
-Power led and test led on GPIO 25
+Red power led on the top right and a yellow green test led on the bottom right GPIO 25
 
 Bottom button is reset, top button is boot
 
